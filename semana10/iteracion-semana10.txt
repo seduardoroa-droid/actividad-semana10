@@ -1,0 +1,19 @@
+1. ¿Qué 2 tareas del backlog harías primero?
+Las dos tareas que se realizarían en esta primera iteración son:
+- El registro de incidencias por parte del ciudadano (incluyendo foto y ubicación).
+- La consulta y visualización de los reportes por parte del equipo de veeduría.
+
+2. ¿Por qué son las más importantes?
+Estas tareas son las más importantes porque constituyen el núcleo o Producto Mínimo Viable
+ (MVP) del sistema de veeduría. Sin la capacidad de que el ciudadano registre el problema,
+  la aplicación no tiene datos; y sin la capacidad de que el equipo consulte esos reportes, 
+  los datos quedan aislados. Al priorizar estas dos tareas se habilita el flujo de valor
+   completo más básico: capturar la información y permitir que sea revisada. Otras tareas
+    como las alertas de Telegram o el mapa son mejoras importantes, pero secundarias para que
+     el sistema empiece a operar.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, que una tarea esté "terminada" (Definition of Done) significa que la funcionalidad
+ no solo ha sido programada a nivel de código, sino que aporta valor real, es estable, 
+ segura y cumple con los estándares mínimos acordados por el equipo para poder ser entregada
+  al usuario final sin errores críticos.
